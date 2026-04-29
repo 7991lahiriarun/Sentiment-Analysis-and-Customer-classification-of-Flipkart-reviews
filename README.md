@@ -1,0 +1,2 @@
+Decoding Customer Sentiments: A Comprehensive Analysis of E-commerce Reviews
+Objective: The objective of the project was to perform sentiment analysis on customer reviews from an e-commerce platform. The goal was to develop machine learning models that could accurately classify reviews as positive, negative, or neutral. The project aimed to provide insights into customer sentiments and enhance decision-making processes for improving products and services.
